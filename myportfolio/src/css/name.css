@@ -1,0 +1,16 @@
+/* name.css */
+
+.randomCharacter {
+    display: inline-block;
+    height: 10px;
+    opacity: 0;
+    color: #00ff00;
+    transition: opacity 2.3s ease-out;
+  }
+  
+  .your-name {
+    text-align: center;
+    font-family: 'FontAwesome';
+    letter-spacing: 20px;
+  }
+  
